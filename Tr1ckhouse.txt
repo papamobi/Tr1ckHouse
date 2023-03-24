@@ -1,0 +1,66 @@
+Useful referee commands. Most important are highlighted in viole[n]t. =)
+
+!yes 
+Passes the current vote.
+!no 
+Vetoes the current vote.
+!allready 
+Forces all players to ready up. Always check if players are not AFK and ready for the match.
+!abort 
+Forces a game in progress to go back to warmup. Can be execuded during the pre-match countdown.
+!map (alternatively !changemap) 
+Changes the map.
+Usage: !map <mapname> [factory]
+!teamsize (alternatively !ts) 
+Calls a teamsize vote and passes it immediately. teamsize 0 - unlimited
+Usage: !teamsize <size>
+!getmotd - Shows everyone the message of the day- discord link.
+!myperm - check your permission level
+!id - What you'll usually call before a lot of the other commands. You give it parts of people's names and it replies with a list of players that matched it. It ignores colors.
+Ex.: !id min cool would list all players with those two tokens in their name. "Mino", "COOLLER" and "^5I A^2M MI^6NO" would all be possible candidates.
+You can always do /players in the console, but this can save you some time if you're only looking for a player or two, especially since it can be done from chat too.
+Usage: !id [part_of_name] ...
+!players - same as /players in console
+!shuffle - Forces a shuffle instantly
+!balance - Balances teams without calling shuffle
+!do - Forces a suggested balance action e.g. shuffles right away if the callvote has been called.
+!switch - Switches the teams of the two players.
+Usage: !switch <id> <id>
+!red 
+Moves a player to the red team.
+Usage: !red <id>
+!blue 
+Moves a player to the blue team.
+Usage: !blue <id>
+!spectate (alternatively !spec, !spectator) 
+Moves a player to the spectator team.
+!mute 
+Mute a player.
+Usage: !mute <id>
+!unmute 
+Mute a player.
+Usage: !unmute <id>
+!ban 
+Bans a player temporarily. A very long period works for all intents and purposes as a permanent ban, so there's no separate command for that.
+Example #1: !ban Mino 1 day Very rude!
+Example #2: !ban sponge 50 years
+Usage: !ban <id> <length> seconds|minutes|hours|days|... [reason]
+!unban 
+Unbans a player if banned.
+Usage: !unban <id>
+!forgive 
+Removes a leave from a player. Optional integer can be provided to remove multiple leaves.
+Usage: !forgive <id> [leaves_to_forgive]
+!commands (alternatively !cmds) - your 5 last executed commands on the server.
+!slap 
+Slaps a player with optional damage.
+Usage: !slap <id> [damage]
+!slay 
+Kills a player instantly.
+Usage: !slay <id>
+!kick 
+Kicks a player. A reason can also be provided.
+Usage: !kick <id>
+!kickban (alternatively !tempban) 
+Kicks a player and prevent the player from joining for the remainder of the map.
+Usage: !kickban <id>
