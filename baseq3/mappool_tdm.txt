@@ -1,0 +1,19 @@
+# specify 1 map per line, mapname|factoryid
+# ex: aerowalk|ffa
+# see factories.txt for valid factory id values
+almostlost|qfetdm
+bloodrun|qfetdm
+campgrounds|qfetdm
+hiddenfortress|qfetdm
+devilish|qfetdm
+furiousheights|qfetdm
+battleforged|qfetdm
+forgotten|qfetdm
+sinister|qfetdm
+cure|qfetdm
+windsongkeep|qfetdm
+ts_dm4|qfetdm
+ospdm11|qfetdm
+solid|qfetdm
+lostworld|qfetdm
+
