@@ -1,0 +1,100 @@
+MAPS: These are the map designations, not always the map name. Use these in a callvote.
+13arena       13box          13yard_xt      16plus         16plusplus     17plus
+1plus         5plus          6plusplus      7plus          7plusplus      aerowalk
+airmaxjumps   almostlost     apex           arcanecitadel  arenagate      arenka
+arkinholm     asylum         ayx_beta6      basesiege      battleforged   beyondreality
+bgmp0         bgmp5          bgmp6          bgmp7          bgmp8          bgmp9
+bitterembrace blackcathedral blastradius    bloodcovenant  bloodlust      bloodrun
+bloodrunblue  bloodydave     bounce         brimstoneabbey burning1       campercrossings
+campgrounds   campgroundsblue               cannedheat     carnagearena1b castledeathstalker
+chemicalreaction             citycrossings  cliffside      cobaltstation  coldcathode
+coldercathode coldwar        concretepalace consequence    corrosion      cos1_beta7b
+courtyard     cpm2           cpm8           cpm_1          cpm_10         cpm_2
+cpm_3         cpm_4          cpm_5          cpm_6          cpm_7          cpm_8
+cpmctf2       cpmctf3        criclejump     ctctf6         cure           cursed
+cursed_temple dboxctf1       deadandgone    deathfactory   deathorglory   decidia
+deepinside    delirium       demonkeep      devilish       df_0ups        df_bardoklick
+df_bardoklickrevamped        df_csu1a       df_freestyle88 df_jjm2        df_lickagain
+df_lickape    df_lickass     df_lickcells   df_lickcells2  df_lickcorp    df_lickdead
+df_lickdecease               df_lickdirt    df_lickevil    df_lickfast    df_lickfudge
+df_lickgirls  df_lickgoogle  df_lickhossa   df_lickhq      df_lickhuar    df_lickhuar2
+df_lickhuarstyle             df_lickice     df_licklonger  df_lickmax     df_lickmore
+df_lickmore2  df_lickpads    df_lickrevived df_lickrevived2               df_licksewage
+df_lickshit   df_licksux     df_licktards   df_licktunnel  df_o3jvelocity df_tr1ckhouse
+dfwc2017_1    dfwc2017_2     dfwc2017_3     dfwc2017_4     dfwc2017_5     dfwc2017_6
+dfwc2017_7    diesirae       dismemberment  distantscreams dividedcrossings
+divineintermission           dktf3iu        doubleimpact   dreadfulplace  dredwerkz
+drtrixiipro   drtrixiipro_ql drunkenmummy   dubneoc        duelingkeeps   durdm1
+eatme         elder          electrichead   electrocution  ermap3         et_map2
+et_map3       et_map4        et_map5        etleague       evilplayground eviscerated
+evolution     extremepkr     eye2eye        eyetoeye       f8sctf1        falloutbunker
+fatalinstinct finalc         finnegans      fluorescent    flyonrocket    focalpoint
+foolishlegacy forgotten      fr3dm1         freestyle_88   fub1_ql        fub2_ql
+fub3_ql       fub4_ql        fubar-fsb2-_ql fubar-fsb2_ql  funjumpsmap    furiousheights
+fuse          futurecrossings               gefsctf3       gen_q1dm1      gm3tourney1
+golgothacore  gospelcrossings               gothicrage     gothicspace_ctf
+grimdungeons  hal_palindrome handbreaker    handbreaker4   handbreaker4_long
+hangtime      hangtime2      hctf1          hearth         hektik         hellsgate
+hellsgateredux               henhouse       heroskeep      hiddenfortress houseofdecay
+imr3dm1       industrialrevolution          infinity       innersanctums  insane1
+instactf1     instactf1x     intervention   ironworks      japanesecastles
+jaxdm8        jjm2_ql        jjm2defrag_ql  jjm3_beta      jjm_ql         jof3ctf1
+jof3dm1       jof3dm2        jpac           jump_bunny     jumpwerkz      just_jump_2
+just_jump_3   kazdm5         kraglejump     labyrinth      lae3dm2        leftbehind
+leone3ctf1    leviathan      limbus         longestyard    lostparadise   lostworld
+luna          macctf1        macdm1         match1         mcsarges       midlifecrisis
+mkbase        mkexp          mksteel        mlctf1_v1      modcomp019     monastery
+moses_dm10    moteof_final   mrcq3t3        mtlctf1        mtlctf1_v1     namelessplace
+newcerberon   nodown         noir           oilrig         okremix        olactf1
+olactf2       oreos          oreos2         ospca1         ospctf1        ospctf2
+ospdm1        ospdm10        ospdm11        ospdm12        ospdm13        ospdm14
+ospdm15       ospdm2         ospdm3         ospdm4         ospdm5         ospdm6
+ospdm7        ospdm8         ospdm9         overgrowth     overkill       overlord
+pacman        padcastle      padcenter      padcrash       padcrash_ctf   padcrash_dm17
+padgallery    padgallery_dl  padgarden      padhome        padkitchen     padpool
+padshop       padspace       pbox1          phantq3dm5_mav4               phrantic
+pillarctf     pillbox        piyofunjumps   piyojump2      plasma_blink   polo3ctf1
+polo3dm2      polo3dm3       polo3dm4       polo3dm5       polo3t1        powerstation
+pro_q3dm13    provinggrounds psidm7         pulpfriction   purgatory      push
+q2dm1         q2dm2          q2dm3          q2dm4          q2dm5          q2dm6
+q2dm7         q2dm8          q3bho1         q3bho2         q3bho3         q3ctfobv
+q3dm13remix   q3hockey       q3mckinley     q3rctf         q3sctf_hs      q3wc1
+q3wc2         q3wc3          q3wc4          q3wc5          q3wc6          q3wc7
+q3wc8         q3wcp1         q3wcp10        q3wcp11        q3wcp12        q3wcp13
+q3wcp14       q3wcp16        q3wcp17        q3wcp18        q3wcp19        q3wcp2
+q3wcp20       q3wcp21        q3wcp22        q3wcp23        q3wcp24        q3wcp3
+q3wcp4        q3wcp5         q3wcp6         q3wcp7         q3wcp8         q3wcp9
+q3wxs1        q3wxs2         qrctf1         quarantine     qzpractice1    qzpractice2
+qztraining    ra3azra1       ra3azra1a      ra3azra1b      ra3azra1c      ragnarok
+railyard      randommap      raztrainql_beta3              raztrainql_beta4
+rctf1         rctf13         rctf2          rctf22         rctf25         rctf7
+realmofsteelrats             rebound        refinery       reflux         repent
+retribution   revolver       sacellum       saintctf1      sarcasmjump    satanic
+scornforge    seamsandbolts  servitude      shakennotstirred              shiningforces
+siberia       silence        silentfright   sinister       skacharohuth   skyward
+smash         solarium       solid          somewhatdamaged               sorrow
+spacechamber  spacectf       spidercrossings               spillway       splatctf1
+splatdm2v2    stchctf9a      stonekeep      strafe_paradise               strafez_ql
+strain        strike         stronghold     teamtemple_q3a terminalheights
+terminatria   terminus       test_bigbox    test_smallbox  theatreofpain  thedukesgarden
+theedge       theepicenter   theoldendomain threestory     thunderstruck  toe2toe
+tornado       totallylost    toxicity       tr1ckhouseb3   tranquil       tricell_ql
+trinity       triplas_dfrun_bs              triplas_dfrun_ha              triplas_dfrun_orig
+trirox_ql     tristrfz_ql    troubledwaters ts_ca1         ts_dm4         tscabdm2
+undead021     useandabuse    vanilla_02     vanilla_03     vanilla_04     vanilla_05
+vanilla_06    vanilla_07     vanilla_08     vanilla_09     vanilla_10     verihard
+verticalvengeance            vortexportal   w3sp_pgultimate3              warehouse
+wargrounds    wernerjump     wicked         windowpain     windsongkeep   wreck_1337
+wreck_egypt   wreck_fuga     wreck_isback   wreck_mixedfight              wreck_plasma
+wreck_run     wreck_strafe   wtf01          wtf01pro       wtf02          wtf02-pro
+wtf03         wtf04          wtf05          wtf06          wtf07          wtf07pro
+wtf08         wtf08pro       wtf09          wtf10          wtf11          wtf15
+wtf18         wtf19          wtf20          wtf21          wtf22          wtf24
+wtf25pro      wtf26          wtf27          wtf28          wtf30          wtf32
+wtf32day      wtf34          wtf35          wtf35bfg       wtf35gauntlet  wtf35grayscale
+wtf35grenades wtf35lightning wtf35machine   wtf35plasmagun wtf35rocket    wtf35shotgun
+wtf38         wtf39          wtf40          wtf41          wtf42          wtf43
+wtf44         wtf45          wtf46          wtf47          wtf48          wtf48pro
+wub_junk      x3map01        x3map03        x3map04        x3map05        x3map06
+xcmtricks2    zen
+555 MAPS: These are the map designations, not always the map name. Use these in a callvote.
